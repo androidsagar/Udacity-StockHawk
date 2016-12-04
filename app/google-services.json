@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69011180973",
+    "project_id": "stockhawk-47d20"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69011180973:android:9808a16399a49d6e",
+        "android_client_info": {
+          "package_name": "com.udacity.stockhawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69011180973-42tu88vhl5oj78f9rddq3d3vs6jlpkes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.stockhawk",
+            "certificate_hash": "90D0D05D687C867B45F0940DDC1A8D5EC445F62F"
+          }
+        },
+        {
+          "client_id": "69011180973-k8mhb4skoeq9bnfib1fk80nepdf1pdgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDay224Wic4T-oaIr6DooR4f98I4gKi_0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
