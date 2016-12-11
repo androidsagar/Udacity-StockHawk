@@ -3,7 +3,7 @@ Udacity Android Developer Nanodegree Project 3 StockHawk
 
 ## License
 
-    Copyright 2015 Sagar Gupta
+    Copyright 2016 Sagar Gupta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
